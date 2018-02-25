@@ -1,4 +1,6 @@
-# postcss-import-with-aliases
+# It's a fork of [postcss-import](https://github.com/postcss/postcss-import). 
+
+## postcss-import(-with-aliases)
 
 [![Unix Build status](https://img.shields.io/travis/postcss/postcss-import/master.svg?branch=master&label=unix%20build)](https://travis-ci.org/postcss/postcss-import)
 [![Windows Build status](https://img.shields.io/appveyor/ci/MoOx/postcss-import/master.svg?label=window%20build)](https://ci.appveyor.com/project/MoOx/postcss-import/branch/master)
