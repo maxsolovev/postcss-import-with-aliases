@@ -12,7 +12,7 @@
   ],
   "author": "Maxime Thirouin & Max Solovev",
   "license": "MIT",
-  "repository": "https://github.com/postcss/postcss-import.git",
+  "repository": "https://github.com/maxsolovev/postcss-import-with-aliases.git",
   "files": [
     "index.js",
     "lib"
